@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "Passbolt - password manager",
-  "short_name": "passbolt",
+  "name": "SIZE Vault - password manager",
+  "short_name": "SIZE Vault",
   "version": "5.17.1",
-  "description": "Passbolt extension for the open source password manager.",
+  "description": "SIZE Vault password manager for teams.",
   "default_locale": "en",
   "icons": {
     "16": "webAccessibleResources/img/icons/icon-16.png",
@@ -15,7 +15,7 @@
   },
   "browser_action": {
     "default_icon": "webAccessibleResources/img/icons/icon-32.png",
-    "default_title": "Passbolt Quickaccess"
+    "default_title": "SIZE Vault"
   },
   "commands": {
     "passbolt-open": {

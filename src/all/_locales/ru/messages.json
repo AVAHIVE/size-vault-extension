@@ -1,6 +1,6 @@
 {
   "appName": {
-    "message": "Passbolt - Менеджер паролей с открытым кодом",
+    "message": "SIZE Vault - Password Manager",
     "description": "The application name of the extension, displayed in the web store. 45 characters max."
   },
   "appDescription": {
